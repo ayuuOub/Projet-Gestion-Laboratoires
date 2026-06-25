@@ -30,3 +30,7 @@ yarn-error.log
 .vscode/
 .DS_Store
 Thumbs.db
+public/hot
+storage/logs/
+cahier_des_charges_plateforme_laboratoire.docx
+scripts/build_cahier_des_charges_docx.py
